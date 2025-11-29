@@ -23,7 +23,10 @@ The agent is particularly effective for research tasks requiring factual accurac
 - **Iterate efficiently** with a controlled loop that balances thoroughness with resource usage
 - **Demonstrate advanced agent patterns** using LangGraph's graph-based control flow for complex multi-step workflows
 
-[MERMAIDE GRAPH]
+  
+
+<img width="2893" height="693" alt="langgraph_adaptive_rag" src="https://github.com/user-attachments/assets/264c871d-9c29-480c-9cd7-28cd09336381" />
+
 
 ## Features
 
@@ -205,4 +208,10 @@ poetry run pytest -v
 This project builds upon:
 - [LangChain](https://github.com/langchain-ai/langchain) for LLM interactions
 - [Tavily API](https://tavily.com/) for web search capabilities
+- [LangChain / MistralAI's Cookbook](https://github.com/mistralai/cookbook/tree/main/third_party/langchain)
+- [Advance RAG control flow with Mistral and LangChain](https://www.youtube.com/watch?v=sgnrL7yo1TE) YouTube video
+
+
+
+
 
