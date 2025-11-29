@@ -1,4 +1,4 @@
-# Corrective RAG (CGRAG) Research Agent 🦜🕸️
+# Corrective RAG (CRAG) Research Agent 🦜🕸️
 
 An intelligent research assistant that generates high-quality, well-researched answers through self-reflection and iterative improvement. The agent critiques its own responses, identifies knowledge gaps, conducts web research, and refines its answers in an iterative loop.
 
